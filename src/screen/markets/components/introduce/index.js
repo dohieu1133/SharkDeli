@@ -16,7 +16,7 @@ const Introduce = () => {
       <View style={styles.introduce}>
         <View style={styles.introduceLeft}>
           <View style={styles.introduceLeftTop}>
-            <Text style={styles.introduceText}>Đi chợ cùng <Text style={[styles.introduceText, {color: 'blue'}]}>SHARKDELI</Text></Text>
+            <Text style={styles.introduceText}>Đi chợ cùng <Text style={[styles.introduceText, {color: '#22a0cd'}]}>SHARKDELI</Text></Text>
           </View>
           <View style={styles.introduceLeftBottom}>
             <Text>Có những ngày bận rộn nhưng vẫn muốn có những bữa ăn ngon lành từ nguyên liệu tươi sống. Giao cho <Text style={{fontWeight: 'bold'}}>SHARKDELI</Text> ngay!</Text>
