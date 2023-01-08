@@ -3,10 +3,10 @@ import { StyleSheet } from 'react-native'
 
 const styles = StyleSheet.create({
   header: {
-    marginTop: 20,
     marginHorizontal: 10,
-    height: 20,
+    height: 40,
     alignItems: 'center',
+    justifyContent: 'center',
     flexDirection: 'row',
   },
   back: {
